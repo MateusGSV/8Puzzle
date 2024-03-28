@@ -1,0 +1,68 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(182, 245, 234);
+}
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+/* justify-content: center; */
+}
+#title{
+    white-space: nowrap;
+}
+#title_8{margin-right: 0.8%; color: blueviolet;}
+#title_p{color: blue;}
+#title_u{color: green;}
+#title_z1{color: goldenrod;}
+#title_z2{color: palevioletred;}
+#title_l{color: crimson;}
+#title_e{color: orangered;}
+
+#container{
+    height: 100%;
+}
+#tabela{
+    background-color: rgb(94, 94, 94);
+    width: 30%;
+    height: 60%;
+    border-spacing: 10px;
+}
+
+td{
+    border: solid 1px #ffffff;
+    text-align: center;
+    font-size:xx-large;
+    color: #ffffff;
+}
+
+.branco{
+    background-color: black;
+}
+.numero1{
+    background-color: purple;
+}
+.numero2{
+    background-color:pink;
+}
+.numero3{
+    background-color:blue;
+}
+.numero4{
+    background-color:red;
+}
+.numero5{
+    background-color:yellow;
+}
+.numero6{
+    background-color:gray;
+}
+.numero7{
+    background-color:green;
+}
+.numero8{
+    background-color:orange;
+}
